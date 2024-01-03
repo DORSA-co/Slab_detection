@@ -1,0 +1,42 @@
+
+# YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
+# Example usage: python train.py --data slab.yaml
+# parent
+# ├── yolov5
+# └── datasets
+#     └── slab 
+
+
+path: ../
+train: images/train  # train images (relative to 'path') 
+val: images/val  # val images (relative to 'path') 
+test: images/test # test images (optional)
+
+
+# # number of classes
+
+# nc: 10
+
+# class names
+names: 
+  0: '0'
+  1: '1'
+  2: '2'
+  3: '3'
+  4: '4'
+  5: '5'
+  6: '6'
+  7: '7'
+  8: '8'
+  9: '9'
+
+  # 0: zero
+  # 1: one
+  # 2: two
+  # 3: three
+  # 4: four
+  # 5: five
+  # 6: six
+  # 7: seven
+  # 8: eight
+  # 9: nine

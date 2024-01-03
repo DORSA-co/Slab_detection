@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/next_hover.png</file>
+    <file>icons/prev_hover.png</file>
+    <file>1.png</file>
+    <file>icons/detect.png</file>
+    <file>icons/clear.png</file>
+    <file>icons/clear_hover.png</file>
+    <file>icons/detect_hover.png</file>
+    <file>icons/next.png</file>
+    <file>icons/prev.png</file>
+    <file>icons/close.png</file>
+    <file>icons/minimize.png</file>
+    <file>icons/square.png</file>
+    <file>icons/drawing.png</file>
+    <file>icons/image.png</file>
+    <file>icons/open_file_hover.png</file>
+    <file>icons/open_folder_hover.png</file>
+    <file>icons/open_file.png</file>
+    <file>icons/open_folder.png</file>
+  </qresource>
+</RCC>
